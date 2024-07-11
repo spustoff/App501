@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="ColModel" representedClassName="ColModel" syncable="YES" codeGenerationType="class">
+        <attribute name="colCat" optional="YES" attributeType="String"/>
+        <attribute name="colName" optional="YES" attributeType="String"/>
+        <attribute name="colPhoto" optional="YES" attributeType="String"/>
+        <attribute name="colPrice" optional="YES" attributeType="String"/>
+        <attribute name="colPurchase" optional="YES" attributeType="String"/>
+        <attribute name="colStrelka" optional="YES" attributeType="String"/>
+        <attribute name="colType" optional="YES" attributeType="String"/>
+        <attribute name="colValute" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Entity" representedClassName="Entity" syncable="YES" codeGenerationType="class"/>
+</model>
